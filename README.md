@@ -34,6 +34,21 @@
 ### その他
 * Gitを使った複数人での開発
 
+## 作ったもの
+### Ethereum Faucet
+https://github.com/takatoshiH/Ethereum_Faucet
+
+自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。
+
+### シューティングゲーム
+https://github.com/takatoshiH/ShootingGame
+JSが分からなくて辛くて作った。コードはひどいが動く。
+
+### Let's 福岡(開発中)
+https://github.com/takatoshiH/lets_fukuoka
+
+福岡の市区町村が分からなくて辛くて作っている.(Vue.js化したい)
+
 ## 講演・登壇
 * 福岡ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
 * 宮崎ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
