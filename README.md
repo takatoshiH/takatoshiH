@@ -59,7 +59,7 @@ https://github.com/takatoshiH/lets_fukuoka
 * 福岡ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
 * 宮崎ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
 * ソフトピアジャパン:スマートコントラクト入門～ブロックチェーンの応用技術～
-* ロックチェーンを学ばナイト in 中洲 [初級編](https://gbec.connpass.com/event/136500/)
+* ブロックチェーンを学ばナイト in 中洲 [初級編](https://gbec.connpass.com/event/136500/)
 
 ## リンク
 * https://qiita.com/Takatoshi_Hiki
