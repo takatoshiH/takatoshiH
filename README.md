@@ -1,6 +1,4 @@
 # 簡単な経歴自己紹介など
-## 名前
-非公開
 ## 年齢
 25歳(1995年生まれ)
 
@@ -18,14 +16,21 @@
 ### コーディング
 * Laravelを使ったアプリケーションの作成
 * Ruby on Railsを使ったアプリケーションの作成
-* Express.jsを使ったアプリケーションの作成
+* Vue.jsを使ったSPAの作成
 * HTML, CSS, JSを使った簡単なサイト
 * 簡単なSQL
+* Express.jsを使ったアプリケーションの作成(業務未経験)
+* Rubyを使った簡単なCLIアプリの作成(業務未経験)
+* C言語を使って簡単な実装(業務未経験)
 
 ### インフラ
 * Nginxサーバーの構築
-* Apacheサーバーの構築
-* Let's encryptを使ったSSL証明証の発行や導入
+* LAMP環境の構築
+* Let's Encryptを使ったSSL証明証の発行や導入
+* AWS運用経験(ブラウザコンソールからのみ)
+
+### ネットワーク
+* TCP/IPの基本的な知識
 
 ### ブロックチェーン
 * Solidityを使ったスマートコントラクトの実装
@@ -34,7 +39,7 @@
 
 ### その他
 * Gitを使った複数人での開発
-* テスト駆動開発
+* テスト駆動開発(Rspec, PHPUnit)
 
 ## 作ったもの
 ### Ethereum Faucet
@@ -42,7 +47,7 @@ https://github.com/takatoshiH/Ethereum_Faucet
 
 自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。
 
-### 自作ブロックチェーンもどき
+### ブロックチェーンもどき
 https://github.com/throo-blockchain/TBC
 
 なんか暇な時に作った。P2Pネットワーク的に動く。トランザクションとかを投げれる。ブロックはCSVに記録される。
@@ -66,4 +71,7 @@ https://github.com/takatoshiH/lets_fukuoka
 
 ## リンク
 * https://qiita.com/Takatoshi_Hiki
+
+## 連絡先
+* t.hikijiri@gmail.com
 
