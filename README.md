@@ -45,23 +45,23 @@
 ### Ethereum Faucet
 https://github.com/takatoshiH/Ethereum_Faucet
 
-自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。
+自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。(Ruby)
 
 ### ブロックチェーンもどき
 https://github.com/throo-blockchain/TBC
 
-なんか暇な時に作った。P2Pネットワーク的に動く。トランザクションとかを投げれる。ブロックはCSVに記録される。
+なんか暇な時に作った。P2Pネットワーク的に動く。トランザクションとかを投げれる。ブロックはCSVに記録される。(Ruby)
 
 ### シューティングゲーム
 https://github.com/takatoshiH/ShootingGame
 
-JSが分からなくて辛くて作った。コードはひどいが動く。
+JSが分からなくて辛くて作った。コードはひどいが動く。(Javascript)
 
 ### Let's 福岡(開発中)
 * (遊ぶ) https://takatoshih.github.io/lets_fukuoka/
 * (コード)https://github.com/takatoshiH/lets_fukuoka
 
-福岡に住んでいるのに福岡の市区町村が分からなくて辛くて作っている.(Vue化したい)
+福岡に住んでいるのに福岡の市区町村が分からなくて辛くて作っている.(Javascript, Vue.js)
 
 ## 講演・登壇
 * 福岡ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
