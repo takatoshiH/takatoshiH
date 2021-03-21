@@ -47,11 +47,6 @@ https://github.com/takatoshiH/Ethereum_Faucet
 
 自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。(Ruby)
 
-### ブロックチェーンもどき
-https://github.com/throo-blockchain/TBC
-
-なんか暇な時に作った。P2Pネットワーク的に動く。トランザクションとかを投げれる。ブロックはCSVに記録される。(Ruby)
-
 ### シューティングゲーム
 https://github.com/takatoshiH/ShootingGame
 
