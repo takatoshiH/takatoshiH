@@ -52,7 +52,7 @@ https://github.com/takatoshiH/ShootingGame
 
 JSが分からなくて辛くて作った。コードはひどいが動く。(Javascript)
 
-### Let's 福岡(開発中)
+### Let's 福岡
 * (遊ぶ) https://takatoshih.github.io/lets_fukuoka/
 * (コード)https://github.com/takatoshiH/lets_fukuoka
 
