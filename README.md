@@ -43,10 +43,6 @@
 * 小規模なプロジェクト(4,5人)のマネージメント
 
 ## 作ったもの
-### Ethereum Faucet
-https://github.com/takatoshiH/Ethereum_Faucet
-
-自分のEthereumアドレスから他人が通貨を引き出せるもの。ブロックチェーンの授業で使おうとしたが眠ってしまった。(Ruby)
 
 ### シューティングゲーム
 https://github.com/takatoshiH/ShootingGame
