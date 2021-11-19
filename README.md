@@ -2,6 +2,8 @@
 ## 年齢
 26歳(1995年生まれ)
 
+![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
+
 ## 経歴・所属
 * umeebe株式会社(2017年11月~2018年1月): テストコードの作成(Ruby on Rails, RSpec)
 * 九州大学 工学部 地球環境工学科 物理探査学研究室 卒(2014年4月~2018年3月)
