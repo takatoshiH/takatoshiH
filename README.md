@@ -1,9 +1,15 @@
+# 簡単な経歴など
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/posts.svg)](http://qiita.com/Takatoshi_Hiki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/contributions.svg)](http://qiita.com/Takatoshi_Hiki)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/followers.svg)](http://qiita.com/Takatoshi_Hiki)
+![Page view](https://komarev.com/ghpvc/?username=Takatoshi_Hiki)
+
 ![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
 
-![stats](https://github-readme-stats.vercel.app/api?username=takatoshiH&count_private=true&show_icons=true)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiH&layout=compact)
 
-# 簡単な経歴など
+
 ## 年齢
 26歳(1995年生まれ)
 
