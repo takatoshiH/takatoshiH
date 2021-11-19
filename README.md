@@ -2,8 +2,7 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/posts.svg)](http://qiita.com/Takatoshi_Hiki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/contributions.svg)](http://qiita.com/Takatoshi_Hiki)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/followers.svg)](http://qiita.com/Takatoshi_Hiki)
-![Page view](https://komarev.com/ghpvc/?username=Takatoshi_Hiki)
+
 
 ![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
 
