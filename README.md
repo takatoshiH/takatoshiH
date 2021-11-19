@@ -1,8 +1,11 @@
+![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
+
+![stats](https://github-readme-stats.vercel.app/api?username=takatoshiH&count_private=true&show_icons=true)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiH&layout=compact)
+
 # 簡単な経歴など
 ## 年齢
 26歳(1995年生まれ)
-
-![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
 
 ## 経歴・所属
 * umeebe株式会社(2017年11月~2018年1月): テストコードの作成(Ruby on Rails, RSpec)
