@@ -24,17 +24,11 @@
 * 漢字検定2級
 
 ## スキルセット
-### コーディング
-* Laravelを使ったアプリケーションの作成
-* Ruby on Railsを使ったアプリケーションの作成
-* Vue.js, TypeScriptを使ったSPAの作成
-* HTML, CSS, JSを使った簡単なサイト
-* SQL
+### 言語
+* PHP, Ruby, Go, javascript. typescript
 
 ### インフラ
-* LinuxサーバーでのLaravel環境構築
-* SSL証明書の発行や更新、サイトのSSL化
-* AWS運用経験
+* Linux関連の基本的なこと
 
 ### ネットワーク
 * TCP/IPの基本的な知識
