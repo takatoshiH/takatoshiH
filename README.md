@@ -9,6 +9,8 @@
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiH&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,git,github,gitlab,go,laravel,linux,mysql,nginx,php,rails,ruby,solidity,ts,vue,)](https://skillicons.dev)
+
 
 ## 年齢
 27歳(1995年生まれ)
