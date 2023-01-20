@@ -3,9 +3,9 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/posts.svg)](http://qiita.com/Takatoshi_Hiki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/contributions.svg)](http://qiita.com/Takatoshi_Hiki)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takatoshiH)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=takatoshiH)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiH&layout=compact)
 
