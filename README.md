@@ -5,8 +5,6 @@
 
 ![contribution](https://github-contribution-stats.vercel.app/api/?username=takatoshiH)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=takatoshiH&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,git,github,gitlab,go,laravel,linux,mysql,nginx,php,rails,ruby,solidity,ts,vue,)](https://skillicons.dev)
