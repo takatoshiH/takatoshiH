@@ -19,7 +19,7 @@
 * スルー株式会社(**2018年4月~2020年3月**): ブロックチェーン関連の研究開発、企業研修
 * 株式会社ハコブネ(**2020年4月~2021年9月**): Frontend(JS,TS, Vue),Backend(PHP,Laravel),PM
 * 株式会社アドベンチャー(**2021年10月~現在**): Backend(PHP, Go), EM, PM
-* Freelance(**2023年1月~現在**): Backend(PHP, Laravel), Frontend(JS, Vue),PM
+* Freelance(**2023年1月~現在**): Backend, Frontend,PM
 
 ## スキルセット
 ### 言語
