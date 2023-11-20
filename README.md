@@ -1,4 +1,4 @@
-# 簡単な経歴など
+# 経歴など
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/posts.svg)](http://qiita.com/Takatoshi_Hiki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Takatoshi_Hiki/contributions.svg)](http://qiita.com/Takatoshi_Hiki)
