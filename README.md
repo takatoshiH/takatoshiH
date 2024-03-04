@@ -11,7 +11,7 @@
 
 
 ## 年齢
-28歳
+1995年生まれ
 
 ## 経歴・所属
 * umeebe株式会社(**2017年11月~2018年1月**): Ruby, Ruby on Rails, RSpec
@@ -44,7 +44,4 @@
 
 ## リンク
 * https://qiita.com/Takatoshi_Hiki
-
-## 連絡先
-* t.hikijiri@gmail.com
 
