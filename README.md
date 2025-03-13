@@ -19,15 +19,15 @@
 * スルー株式会社(**2018年4月~2020年3月**): ブロックチェーン関連の研究開発、企業研修
 * 株式会社ハコブネ(**2020年4月~2021年9月**): Frontend(JS,TS, Vue),Backend(PHP,Laravel),PM
 * 株式会社アドベンチャー(**2021年10月~現在**): Backend, EM, PM
-* Freelance(**2023年1月~現在**): Backend, Frontend,PM
+* 株式会社アドベンチャー(**2024年7月~現在**): Marketing, DataEngineering, DataScience
+* Freelance(**2023年1月~現在**): Backend, Frontend,PjM
 
 ## スキルセット
 ### 言語
 * PHP, Ruby, Go, javascript. Typescript, Kotlin
 
 ### インフラ
-* Linux関連の基本的なこと
-* Dockerの基本的なこと
+* 基本的なこと
 
 ### その他
 * TDD
@@ -35,6 +35,9 @@
 * プロジェクト/チームのマネジメント
 * ブロックチェーンに関する基本的な知識
 * データエンジニア
+* BigQuery
+* Embulk
+* データ可視化
 
 ## 講演・登壇
 * 福岡ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
