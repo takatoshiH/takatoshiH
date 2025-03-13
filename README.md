@@ -20,11 +20,12 @@
 * 株式会社ハコブネ(**2020年4月~2021年9月**): Frontend(JS,TS, Vue),Backend(PHP,Laravel),PM
 * 株式会社アドベンチャー(**2021年10月~現在**): Backend, EM, PM
 * 株式会社アドベンチャー(**2024年7月~現在**): Marketing, DataEngineering, DataScience
-* Freelance(**2023年1月~現在**): Backend, Frontend,PjM
+* 電子書籍配信サイト構築/保守運用(**2023年1月~現在**): Backend, Frontend, PjM (フリーランス)
+* 財務系スタートアップ(**2024年7月~現在**): (フリーランス)
 
 ## スキルセット
 ### 言語
-* PHP, Ruby, Go, javascript. Typescript, Kotlin
+* PHP, Ruby, Go, javascript, Typescript, Kotlin
 
 ### インフラ
 * 基本的なこと
@@ -35,9 +36,8 @@
 * プロジェクト/チームのマネジメント
 * ブロックチェーンに関する基本的な知識
 * データエンジニア
-* BigQuery
+* BigQuery, LookerStudio
 * Embulk
-* データ可視化
 
 ## 講演・登壇
 * 福岡ソフトウェアセンターでのブロックチェーン技術研修(ブロックチェーン入門, スマートコントラクト入門)
